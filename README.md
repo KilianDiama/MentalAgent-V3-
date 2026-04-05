@@ -1,3 +1,5 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
+
 MentalAgent V3+
 
 A neural architecture for emotionally-aware reinforcement learning agents combining a Transformer encoder, a recurrent state-space model (RSSM), emotion modeling, and a safe policy/value RL head.
